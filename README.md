@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/thrillz-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,199**, transparent on the [solution page](https://miracuves.com/thrillz-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXThrillz
 {CATEGORY}        Creator Subscription & Fan Engagement Platform
 {DEMO_WEB}        mxthrillz.mimeld.com
-{PRICE}           $2,899
+{PRICE}           $3,199
 {SLUG}            thrillz-clone
 {SOLUTION_URL}    https://miracuves.com/thrillz-clone/
 {VERTICAL}        creator_economy
